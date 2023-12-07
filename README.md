@@ -10,4 +10,4 @@ Python (text-based command line program)
 
 # Reference
 
-https://en.wikipedia.org/wiki/Morse_code#International_Morse_code
+https://en.wikipedia.org/wiki/Morse_code
