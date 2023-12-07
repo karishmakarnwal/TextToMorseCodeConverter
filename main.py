@@ -37,10 +37,6 @@ def text_to_morse_code(entered_text):
     print(f'The converted morse code is {morse_code}')
 
 
-# # Press the green button in the gutter to run the script.
-# if __name__ == '__main__':
-#     text_to_morse_code('PyCharm')
-
 should_end = False
 while not should_end:
     text = input("Type text to convert to morse code:\n")
